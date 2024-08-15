@@ -28,14 +28,14 @@ export interface Car {
 export const HomeScreen = () => {
    
     const products: Product[] = [
-        { id: 1, name: 'Funda de arroz', price: 1.80, stock: 5, pathImage: 'https://www.megaprimavera.com/wp-content/uploads/arroz-blanco-gustadina-2-kg.png' },
-        { id: 2, name: 'Funda de azucar', price: 1.30, stock: 7, pathImage: 'https://tienda.propieta.ec/wp-content/uploads/2021/03/azucar-blanca.jpg' },
-        { id: 3, name: 'Funda de papas', price: 2.00, stock: 0, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/65700_G.jpg' },
-        { id: 4, name: 'Funda de fideos', price: 0.80, stock: 4, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/133101593_M.jpg' },
-        { id: 5, name: 'Funda de sal', price: 0.60, stock: 8, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/87990_M.jpg' },
-        { id: 6, name: 'Funda de sal', price: 0.60, stock: 8, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/87990_M.jpg' },
-        { id: 7, name: 'Funda de sal', price: 0.60, stock: 8, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/87990_M.jpg' },
-        { id: 8, name: 'Funda de sal', price: 0.60, stock: 8, pathImage: 'https://www.supermercadosantamaria.com/documents/10180/10504/87990_M.jpg' },
+        { id: 1, name: 'GtaV', price: 50, stock: 5, pathImage: 'https://storegamesecuador.com/files/images/productos/1474351766-gta-5-ps3-chile.jpg' },
+        { id: 2, name: 'God Of War', price: 40, stock: 7, pathImage: 'https://juegodigitalecuador.com/files/images/productos/1655484530-god-of-war-ragnarok-ps5-pre-orden-0.jpg' },
+        { id: 3, name: 'Minecraft', price: 60, stock: 0, pathImage: 'https://m.media-amazon.com/images/I/81gN4gl9MzL._SL1500_.jpg' },
+        { id: 4, name: 'Dark Souls', price: 80, stock: 4, pathImage: 'https://i5.walmartimages.com/seo/Dark-Souls-Remastered-PlayStation-4_8f8b8ce1-3541-4752-8816-41de8ff0aa6d_1.4a81afa5d6da8a2e92bc778887f0712a.jpeg' },
+        { id: 5, name: 'Terraria', price: 60, stock: 8, pathImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVrdey1Ehd7J79145gLVNxwlQR6E9ftldiA&s' },
+        { id: 6, name: 'Resident Evil 2', price: 30, stock: 8, pathImage: 'https://juegodigitalecuador.com/files/images/productos/1570463788-resident-evil-2-ps4.png' },
+        { id: 7, name: 'Mortal Kombat X', price: 10, stock: 8, pathImage: 'https://i.3djuegos.com/juegos/11039/mortal_kombat_x/fotos/ficha/mortal_kombat_x-2543178.webp' },
+        { id: 8, name: 'Lego world', price: 25, stock: 8, pathImage: 'https://juegodigitalecuador.com/files/images/productos/1648593390-lego-worlds-xbox-one-0.jpg' },
     ];
 
     

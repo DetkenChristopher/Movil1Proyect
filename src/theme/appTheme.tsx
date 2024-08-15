@@ -70,7 +70,7 @@ export const styles = StyleSheet.create({
         borderColor: '#ccc',
         borderWidth: 2,
         borderRadius: 10,
-        marginBottom: 15
+        marginBottom: 25
         
     },
     titleCard: {
@@ -118,7 +118,7 @@ export const styles = StyleSheet.create({
     },
     imageModal: {
         width: 200,
-        height: 200
+        height: 275
     },
     contentQuantity: {
         flexDirection: 'row',
